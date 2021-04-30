@@ -6,6 +6,7 @@ So you may be wondering what kind of features does a language this magnificant h
 
 Well it has amazingly readable syntax, and no need for complex file extensions print lang uses standard text files with the .txt extension
 
+Another amazing benifit of PrintLang is that it is super lightweight being only 40 lines allows for it to be super light.
 # Syntax
 The syntax is quick easy and readable:
 
