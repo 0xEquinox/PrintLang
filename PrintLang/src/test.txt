@@ -1,2 +1,0 @@
-PRINT_THE_LINE(This is a test);
-PRINT_THE_LINE(This is a test 2);
